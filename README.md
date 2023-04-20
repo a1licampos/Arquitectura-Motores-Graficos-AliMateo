@@ -8,7 +8,7 @@
 **Alumno:**      *Ali Mateo Campos Martínez*
   
 ## Representación gráfica del proyecto
-![Cubo](Tutorial07/Cube.jpg)
+![Cubo](Cube.jpg)
 
 ## Objetivos
 + **Movimiento del objeto (cubo) a través del Input del teclado**
