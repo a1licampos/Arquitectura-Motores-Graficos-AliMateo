@@ -55,4 +55,4 @@
     + Viewport
    
 + **Bugs a resolver**
-  + Después de cerrar el programa presenta un _triggered a breakpoint_ en la función `DepthStencilView::destroy()`, según indicaciones del profesor por el momento está     bien, esto se corregirá conforme vayamos abstrayendo las clases restantes.
+  + Después de cerrar el programa presenta un _triggered a breakpoint_ en la función `ImGui_ImplDX11_InvalidateDeviceObjects()`, según indicaciones del profesor por el     momento está bien, sin embargo, debe prestarse atención en el futuro.
