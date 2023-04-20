@@ -10,7 +10,7 @@
 ## Representación gráfica del proyecto
 ![Cubo](Cube.jpg)
 
-![FINAL](Engine.jpg)
+![FINAL](Engine.JPG)
 
 ## Objetivos
 + **Movimiento del objeto (cubo) a través del Input del teclado**
